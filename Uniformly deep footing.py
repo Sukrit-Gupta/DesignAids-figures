@@ -112,6 +112,3 @@ drawing.add(dxf.line((50, 45), (52, 47)))
 drawing.save()
 
 print "'" + drawing_name + ".dxf'", "file generated in the same directory"
-
-
-

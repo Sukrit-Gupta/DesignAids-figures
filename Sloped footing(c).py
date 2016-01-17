@@ -159,4 +159,3 @@ drawing.add(dxf.line((50, 45), (48, 47)))
 drawing.add(dxf.line((50, 45), (52, 47)))
 
 drawing.save()
-

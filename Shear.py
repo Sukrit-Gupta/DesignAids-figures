@@ -128,4 +128,3 @@ drawing.add(dxf.line((41, 41), (41, 0), layer='TESTLAYER',linetype='PHANTOMX2'))
 
 
 drawing.save()
-
